@@ -24,20 +24,11 @@ self.port.on("insert-translate", function() {
 });
 
 self.port.on("insert-translate-end", function (translatedArray) {
-  // undo用のデータ
-  var undoNodes = [];
-  
   // テキスト入れ替え
   for (var i = 0; i < gSelectNodes.length; i++) {
-    // 翻訳前のテキストを記録
-    undoNodes.push({node: gSelectNodes[i].node, text: gSelectNodes[i].node.wholeText + ''}); // 文字列は複製しておくこと
-    
     // 翻訳アニメーションの実行
     insertAnimation(gSelectNodes[i].node, "(" + translatedArray[i].TranslatedText + ")", gSelectNodes[i].insertPos());
   }
-
-  // コンテナに記録
-  addUndoContainer(undoNodes);
 
   // 選択範囲をクリア
   deselectWindow();
