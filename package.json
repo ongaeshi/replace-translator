@@ -1,9 +1,9 @@
 {
-    "name": "transmaker", 
+    "name": "replace-translator", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
     "author": "ongaeshi", 
-    "version": "0.5.2",
-    "fullName": "Transmaker", 
+    "version": "1.0.0",
+    "fullName": "Replace Translator", 
     "id": "jid1-ZGzeIrWqOcATcA", 
-    "description": "Rewrite the selection in translation (links and text color, size is kept). Replace, Insert, Undo can translate into foreign languages using. More than 36 different languages to be used immediately with no configuration."
+    "description": "Rewrite the selection in translation (links and text color, size is kept). Replace, Insert can translate into foreign languages using. More than 36 different languages to be used immediately with no configuration."
 }
