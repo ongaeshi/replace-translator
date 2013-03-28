@@ -1,13 +1,13 @@
 Rewrite the selection in translation (links and text color, size is kept). 
 
-Replace, Insert, Undo can translate into foreign languages using. 
+* Replace, Insert can translate into foreign languages using. 
+* More than 36 different languages to be used immediately with no configuration.
 
-More than 36 different languages to be used immediately with no configuration.
+Detail
 
 * Rewrite the selection in translation (links and text color, size is maintained).
 * Replace the selected text "Replace Translate" .
 * Those behind the selected text "Insert Translate" .
-* You can use the method before to revert when non-selected text in the context menu "Undo Translate".
 * Support to more than 36 languages.
 * Can be used immediately with no settings.
 * Hotkey
