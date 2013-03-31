@@ -2,6 +2,7 @@
 
 * Rename 'Replace Translator'
 * Combine context-menu
+* New icon
 
 # 0.5.2 2011/12/01
 
