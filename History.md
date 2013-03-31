@@ -1,3 +1,9 @@
+# 1.0.0 2013/03/30
+
+* Rename 'Replace Translator'
+* Combine context-menu
+* New icon
+
 # 0.5.2 2011/12/01
 
 * Add translatePost() & translateArrayPost() in bing-translater.js. Translate use "POST" method.
