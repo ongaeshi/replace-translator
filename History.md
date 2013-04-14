@@ -1,3 +1,7 @@
+# 1.0.1 2013/04/14
+
+* Fixed time fail
+
 # 1.0.0 2013/03/30
 
 * Rename 'Replace Translator'
