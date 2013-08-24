@@ -1,3 +1,8 @@
+# 1.0.2 2013/08/24
+
+* Rebuild latest Add-on SDK from GitHub
+  * Test Can fix Issue #1(https://github.com/ongaeshi/replace-translator/issues/1)
+
 # 1.0.1 2013/04/14
 
 * Fixed time fail

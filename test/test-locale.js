@@ -1,7 +1,8 @@
 const locale = require("locale");
-require("console-p");
+//require("console-p");
 
 exports.test_basic = function(test) {
   test.pass("Unit test running!");
-  console.p(locale.getMylang());
+  console.log(locale.getMylang());
+  // console.p(locale.getMylang());
 };
