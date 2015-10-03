@@ -2,8 +2,9 @@
     "name": "replace-translator", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
     "author": "ongaeshi", 
-    "version": "1.0.2",
+    "version": "1.1.0",
     "fullName": "Replace Translator", 
-    "id": "jid1-FsOuYau3jN1A4g",
-    "description": "Rewrite the selection in translation. Replace or Insert can translate into foreign languages using. More than 36 different languages to be used immediately with no configuration."
+    "id": "jid1-FsOuYau3jN1A4g@jetpack",
+    "description": "Rewrite the selection in translation. Replace or Insert can translate into foreign languages using. More than 36 different languages to be used immediately with no configuration.",
+    "main": "lib/main.js"
 }

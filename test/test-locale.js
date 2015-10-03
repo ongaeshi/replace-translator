@@ -1,4 +1,4 @@
-const locale = require("locale");
+const locale = require("./locale");
 //require("console-p");
 
 exports.test_basic = function(test) {
